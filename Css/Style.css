@@ -1,0 +1,53 @@
+/* CSS Document */
+.body{
+	height:800px;
+	width:1000px;
+	margin:auto;
+	float:none;
+}
+
+.banner{
+	height:150px;
+	width:1000px;
+	background:#09C;
+}
+
+.content{
+	height:600px;
+	width:1000px;
+	background:#0F0;
+	margin:0px;
+	padding:0px;
+}
+
+.contentleft{
+	height:600px;
+	width:200px;
+	float:left;
+	background:#FFF;
+}
+.contentmid{
+	height:600px;
+	width:600px;
+	background:#6FF;
+	float:left;
+}
+.contentright{
+	height:600px;
+	width:200px;
+	float:right;
+	background:#FFF;
+}
+/*content*/
+.footer{
+	float:right;
+	height:70px;
+	width:1000px;
+	background:#393;
+}
+.header{
+	background:#F90;
+	color: white;
+	padding: lrem 0;
+	text-align:center;
+	}
